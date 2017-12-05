@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/.android/build-cache/ac6534dedb05cdaddb5a19dfd4fd90c63127c145/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98737b21b3593de3aa0edd92fc62ab5159d7d6bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/.android/build-cache/fe63f9812a7c4a32f72c220595dec5392845811c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83f0734ff7a52b9d2358b6190b921881ee83bf87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7bd9be87c45297f07d0a010d0fcd6d6bc928aed8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_53fd9c571f2f5919b583346ef324a308f57a313b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/.android/build-cache/5b23f9d7c1f05b9631fb9c5f3a783775a5d69e3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54b1735279e7fbc15eee659d6f59034906752549/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/.android/build-cache/979ce94638c3605cbea585abf89095519d26438a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2443a1caee33f3c5d4211f52b0c81bcef28a846/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/.android/build-cache/8ed2a3909c4aaa816c2b6aa9225f139f9c95bd57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6650ef51cdfab6dd83483e97fbc22f4229e0022c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="136383dce6afc509252dbf594970d406aef6f924">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0d29bba96d2deb5df93d4bce20038087b9dfa623/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f4fd9fdf199769295c4877cccdcb86164205d080/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/.android/build-cache/4937ea78397ac6a49524dd037bd3fca6f3e8cb3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19173d20a535571150ee60e4ccd1109d232efccf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/.android/build-cache/776428a5f95706d3dc7f5e90bcf91f1f0975e68f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e99cd205983a315a94a5586bc5e21d0cce026000/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/.android/build-cache/8b1d54f1467617a768711a0db83befa6f932bd2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c76687f54d92fdc6058b6ae8d677d90beb2d304/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/.android/build-cache/85fb571dcb74f8f8fca7980473704774b672ff9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e8512ca59d15dbf477719d72ad828faa90c1a62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iconlabs/.android/build-cache/e420ed0e6f574b0c71f70df92dffe6884e96246b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/iconlabs/AndroidStudioProjects/Mudat/mudat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d53949baf33ffad43671737dc2824541af09bc8/classes.dex" />
+    </item>
+
+</items>
