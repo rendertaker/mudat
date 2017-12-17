@@ -28,6 +28,7 @@ public class ListaUsuarioActivity extends AppCompatActivity {
         Log.i("prueba", "cantidad " + usuarios.size() );
         ListView listView =  (ListView) findViewById(R.id.lvUsuario);
         listView.setAdapter(new UsuarioListAdapter(usuarios,this));
+
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -46,9 +47,10 @@ public class ListaUsuarioActivity extends AppCompatActivity {
 
                 // Toast mensaje = Toast.makeText(MainActivity.this,"Klk lo guardaste" + txtNombre.getText(), Toast.LENGTH_LONG);
                 // mensaje.show();
-                Bundle parametros = new Bundle();
+              //  Bundle parametros = new Bundle();
                 //parametros.putString("nombre", txtNombre.getText().toString());
                 Intent registraUsuario = new Intent(ListaUsuarioActivity.this, UsuarioActivity.class);
+
                 //listaUsuario.putExtras(parametros);
                 startActivity(registraUsuario);
 

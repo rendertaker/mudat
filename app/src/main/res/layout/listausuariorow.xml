@@ -35,7 +35,7 @@
         android:layout_marginTop="2dp"
         android:id="@+id/ivimagen"
         android:cropToPadding="false"
-        android:src="@drawable/iniciocomillas"
+
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
         android:layout_alignBottom="@+id/luEmail"

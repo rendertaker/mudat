@@ -10,12 +10,12 @@ public class Usuario implements Serializable
 {
     int id;
     String nombre;
-    TipoUsuario tipoUsuario;
+    String tipoUsuario;
     String identificacion;
     String email;
     String telefono;
     String clave;
-    int estatus;
+    String estatus;
 
     @Override
     public String toString() {
@@ -39,7 +39,7 @@ public class Usuario implements Serializable
         return nombre;
     }
 
-    public TipoUsuario getTipoUsuario() {
+    public String getTipoUsuario() {
         return tipoUsuario;
     }
 
@@ -59,7 +59,7 @@ public class Usuario implements Serializable
         return clave;
     }
 
-    public int getEstatus() {
+    public String getEstatus() {
         return estatus;
     }
 
@@ -72,7 +72,7 @@ public class Usuario implements Serializable
         this.nombre = nombre;
     }
 
-    public void setTipoUsuario(TipoUsuario tipoUsuario) {
+    public void setTipoUsuario(String tipoUsuario) {
         this.tipoUsuario = tipoUsuario;
     }
 
@@ -92,7 +92,7 @@ public class Usuario implements Serializable
         this.clave = clave;
     }
 
-    public void setEstatus(int estatus) {
+    public void setEstatus(String estatus) {
         this.estatus = estatus;
     }
 }

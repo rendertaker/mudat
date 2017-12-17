@@ -14,4 +14,25 @@ public class SqlHelperSchema
             "telefono TEXT," +
             "clave TEXT," +
             "estatus TEXT)";
+
+    public static final String ANUNCIO_TABLE = "CREATE TABLE anuncio (id INTEGER PRIMARY KEY AUTOINCREMENT," +
+            "id_categoria INTEGER," +
+            "id_usuario INTEGER," +
+            "fecha TEXT," +
+            "condicion TEXT," +
+            "precio REAL," +
+            "titulo TEXT," +
+            "ubicacion TEXT," +
+            "descripcion TEXT" +
+            ")";
+
+    public static final String CATEGORIA_TABLE = "CREATE TABLE categoria (" +
+            "id INTEGER PRIMARY KEY AUTOINCREMENT," +
+            "Descripcion TEXT," +
+            "Nombre TEXT" +
+            ")";
+
+
 }
+
+

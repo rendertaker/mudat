@@ -24,6 +24,8 @@ public class DbConnection extends SQLiteOpenHelper
     public void onCreate(SQLiteDatabase db)
     {
         db.execSQL(SqlHelperSchema.USUARIO_TABLE);
+        db.execSQL(SqlHelperSchema.ANUNCIO_TABLE);
+        db.execSQL(SqlHelperSchema.CATEGORIA_TABLE);
     }
 
     @Override
